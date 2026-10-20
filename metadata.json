@@ -1,0 +1,6 @@
+{
+  "name": "English Buddy",
+  "description": "An IELTS-style English learning app for kids aged 6 to 12 with fun Reading, Listening, and Speaking modules.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
